@@ -1,0 +1,47 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+*.venv
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# MoviePy temporary files
+*.mp4~
+*.temp.mp4
+*.temp.wav
+*.temp.png
+
+# Test artifacts
+*.pytest_cache/
+test_output/
+coverage/
+*.coverage
+
+# Credentials and sensitive files
+*.json
+*.key
+*.pem
+
+# Output folders
+output/
