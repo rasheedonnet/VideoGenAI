@@ -1,15 +1,6 @@
 # Core dependencies
-# google-cloud-aiplatform>=1.36.0
 google-adk>=0.3.0
 python-dotenv>=1.0.0
-# google-generativeai
-# google-ai-generativelanguage
-
-# Agent-specific dependencies
-# torch>=2.0.0
-# pillow>=10.0.0
-# moviepy>=1.0.0
-# ffmpeg-python>=0.2.0
 
 # Testing
 pytest>=7.4.0
