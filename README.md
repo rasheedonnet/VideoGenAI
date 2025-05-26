@@ -48,7 +48,7 @@ VideoGenerator leverages various AI models to handle different aspects of video 
 
 ```
 # Generate a video with a prompt
-python main.py --prompt "Generate inspiring quotes and explain it with a story" --output "my_video.mp4"
+python main.py --prompt "Generate inspiring quotes and explain it with a story"
 
 
 ## Contributing
@@ -58,3 +58,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
+```
+
+The output video will be saved in the `output` directory.
